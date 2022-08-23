@@ -1,7 +1,8 @@
-
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
 I'm Çağatay, I'm a bot on Discord and I share my projects here, I use Python, Node.js, languages ​​I use for Discord bot, I make a website from time to time, I work in html and I share my projects, my contact addresses are shown below to contact me by writing to me from a contact address. You can ask price information or questions you want to ask.
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/922914889318686830?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/922914889318686830)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=lixeniorr&color=green" alt="cagatyllc :: Profile Stats"></a>
