@@ -15,6 +15,3 @@ I'm Çağatay, I'm a bot on Discord and I share my projects here, I use Python, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixeniorr&layout=compact&theme=tokyonight" height="180">
   
 </p>
-
-[0]: https://www.mobiler.dev/
-[1]: https://www.futag.net/
