@@ -5,7 +5,7 @@ I'm Çağatay, I'm a bot on Discord and I share my projects here, I use Python, 
 [![Discord Presence](https://lanyard.cnrad.dev/api/922914889318686830?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/922914889318686830)
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=lixeniorr&color=green" alt="cagatyllc :: Profile Stats"></a>
-<a href="mailto:lixeniorr00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lixeniorr00@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:lixmediax@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lixmediax@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.instagram.com/cagatyllc/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-cagatyllc-black?style=flat-square&logo=instagram"></a>
 </p>
 
